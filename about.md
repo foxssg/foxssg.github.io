@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A linux enthusiast.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is going to be my personal blog with some tips that I've discovered in my life path, most of them related to linux but not all of them.
 
 ### Contact me
 
