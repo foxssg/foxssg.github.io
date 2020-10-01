@@ -1,0 +1,8 @@
+---
+published: false
+---
+## NomadBSD
+
+I've tried freebsd, openbsd, ghostbsd and some other bsd distros but every time something was wrong.
+LAtely I've been using NomadBSD and everything works out of the box, wifi, touchpad, etc.
+I've been having some random difficulties with my second display, some glitchy random shits with the second display and one day some programs won't start, but I thing that the last thing was because I had screw something up with openbox. Apart from that everything is ok.
