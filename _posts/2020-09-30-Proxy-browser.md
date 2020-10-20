@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## How to proxy traffic through browser
+How to proxy traffic through browser
 
 First thing to do on the terminal:
 - ssh -D 8123 -f -C -q -N root@192.168.1.10
@@ -19,5 +19,3 @@ Then for example on firefox you have to go to:
 
 
 You're done, now all the firefox traffic is using that ip and port.
-
-
