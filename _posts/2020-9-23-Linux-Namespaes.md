@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Namespaces
+title: Linux-Namespaces
 published: true
 ---
 I'm sharing a little trick I've learned recently, from this video https://www.youtube.com/watch?v=d2KnVasIq5I
@@ -73,7 +73,3 @@ sudo iptables -t nat -D POSTROUTING -s 10.200.200.0/24 -o e+ -j MASQUERADE
 sudo killall openvpn
 sudo ip link delete vpndest0
 sudo ip netns delete myvpn
-
-
-
-
